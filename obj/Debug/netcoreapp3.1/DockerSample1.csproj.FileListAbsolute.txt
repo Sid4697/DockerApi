@@ -1,0 +1,9 @@
+C:\Users\Furious\source\repos\DockerSample1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Furious\source\repos\DockerSample1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Furious\source\repos\DockerSample1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Furious\source\repos\DockerSample1\obj\Debug\netcoreapp3.1\DockerSample1.csprojAssemblyReference.cache
+C:\Users\Furious\source\repos\DockerSample1\obj\Debug\netcoreapp3.1\DockerSample1.AssemblyInfoInputs.cache
+C:\Users\Furious\source\repos\DockerSample1\obj\Debug\netcoreapp3.1\DockerSample1.AssemblyInfo.cs
+C:\Users\Furious\source\repos\DockerSample1\obj\Debug\netcoreapp3.1\DockerSample1.RazorTargetAssemblyInfo.cache
+C:\Users\Furious\source\repos\DockerSample1\obj\Debug\netcoreapp3.1\staticwebassets\DockerSample1.StaticWebAssets.Manifest.cache
+C:\Users\Furious\source\repos\DockerSample1\obj\Debug\netcoreapp3.1\staticwebassets\DockerSample1.StaticWebAssets.xml
